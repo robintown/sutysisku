@@ -102,7 +102,9 @@ background-color: #d1ff9e;
 align-items: flex-start;
 flex-direction: row;
 display: flex;
-flex: 1;
+}
+.valsi {
+flex: auto;
 }
 .tfm {
 display: inline;
